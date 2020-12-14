@@ -1,22 +1,25 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com/citations?user=L2YjIQoAAAAJ&hl=en
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+  - title: "Codes"
+    url: https://github.com/setholinger/
+
+#  - title: "Teaching"
+#    url: /teaching/
+
+#  - title: "Portfolio"
+#    url: /portfolio/
+
+#  - title: "Blog Posts"
+#    url: /year-archive/
+
   - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+    url: /files/cv.pdf
+
+#  - title: "Guide"
+#    url: /markdown/
