@@ -5,10 +5,6 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
----
-# even an empty front matter is ok
----
-
 # Site Settings
 locale                   : "en-US"
 title                    : "Seth Donald Olinger"
