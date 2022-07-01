@@ -13,7 +13,8 @@ Predicting and reacting to changes in the cryosphere as Earth's climate warms re
 
 __Highlights of my research include:__
 
-* Characterizing the first seismic recordings of kilometer-scale rift extension.
-* Modeling the bending of floating ice shelves in response to rifting.
-* Detecting, cataloging, and locating rift fracture events in continuous seismic data.
-* Investigating the relationship between tidal stresses and rift fracture.
+* Characterizing seismic recordings of kilometer-scale rift extension.
+* Modeling interactions between fluid processes and ice shelf fracture.
+* Modeling the bending of floating ice shelves in response to fracture.
+* Detecting, cataloging, and locating fracture events in continuous seismic data.
+* Investigating the relationship between tidal stresses and ice shelf fracture.

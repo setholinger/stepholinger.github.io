@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Seth Donald Olinger"
+title                    : "Stephanie Dawn Olinger"
 title_separator          : "-"
-name                     : &name "Seth Olinger"
+name                     : &name "Stephanie Olinger"
 description              : &description "personal description"
-url                      : https://setholinger.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://stepholinger.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "setholinger/setholinger.github.io"
+repository               : "setholinger/stepholinger.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
