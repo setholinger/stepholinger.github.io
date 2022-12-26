@@ -9,12 +9,10 @@ redirect_from:
 ---
 ![Rift Seismicity.](images/riftquake.png)
 
-Predicting and reacting to changes in the cryosphere as Earth's climate warms requires a robust understanding of Antarctic ice dynamics, yet many key processes that influence mass loss and state of stress in Antarctic ice shelves are poorly understood. In my work, I use seismological data and mechanical modeling to study rifting, the ice fracture process that leads to the calving of tabular icebergs.
+Predicting and reacting to changes in the cryosphere as Earth's climate warms requires a robust understanding of Antarctic ice dynamics, yet the fracture processes that influence mass loss and ice shelf stability are poorly understood. Ice fracture not only controls iceberg calving on Earth, but also shapes the surfaces of icy satellites like Saturn's moon Enceladus, one of the most likely hosts of extraterrestrial life in the the solar system. In my work, I use seismological data and mechanical modeling to study coupled systems of ice fracture and ocean flow on Earth and beyond.
 
 __Highlights of my research include:__
 
 * Characterizing seismic recordings of kilometer-scale rift extension.
 * Modeling interactions between fluid processes and ice shelf fracture.
 * Modeling the bending of floating ice shelves in response to fracture.
-* Detecting, cataloging, and locating fracture events in continuous seismic data.
-* Investigating the relationship between tidal stresses and ice shelf fracture.
