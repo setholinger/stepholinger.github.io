@@ -83,11 +83,11 @@ author:
   name             :
   avatar           : "profile.png"
   bio              :
-  location         : "Harvard"
+  location         : "Stanford"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=L2YjIQoAAAAJ&hl=en"
-  email            : "stepholinger@fas.harvard.edu"
+  email            : "solinger@stanford.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
