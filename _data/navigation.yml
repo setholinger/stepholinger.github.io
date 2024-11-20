@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: https://scholar.google.com/citations?view_op=list_works&hl=en&user=zG905V4AAAAJ&gmla=AL3_zih_G_ADIKjqU3bNl9WWEWSulhyXrOG6JFleHhZhmCg9o-VVD5EJkq8GZ0Q5GcFYCmtny47jCTK93xDIpOqjnQiieQN79s3x-5si_Ixq
 
-  - title: "Talks"
-    url: /talks/
+  #- title: "Talks"
+  #  url: /talks/
 
   - title: "Codes"
     url: https://github.com/stepholinger/
