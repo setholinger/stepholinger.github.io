@@ -15,7 +15,7 @@ Predicting and reacting to changes in the cryosphere as Earth's climate warms re
 
 __Climate Intervention:__
 
-Eath's climate is warming at an elevated rate due human activity. As international decarbonization progresses to slowly to mitigate anthropogenic warming, humanity must develop tools to mitigate climate warming directly. I am interested in a variety of solar radiation management (SRM) strategies and ways to ensure indigenous voices are included in conversations surrounding that research.
+Eath's climate is warming at an elevated rate due human activity. As international decarbonization continues to progress too slowly to mitigate anthropogenic warming, humanity must develop tools to intervene in climate warming directly. I am interested in a variety of solar radiation management (SRM) strategies and ways to ensure indigenous voices are included in conversations surrounding that research.
 
 __Fiber Optic Sensing:__
 
